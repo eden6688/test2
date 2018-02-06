@@ -1,9 +1,11 @@
 package com.example.hello;
 
+//just for test
 public class User {
 
 	private String name;
 	private int age;
+      private int test;
 	
 	public User(String name, int age) {
 		this.name = name;
